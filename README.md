@@ -1,4 +1,4 @@
-# Análise de documentos e transformação em Dados no Azure ML
+# Extração de textos de imagens no Azure ML
 
 1. Acessar a página inicial da azure no link: https://portal.azure.com, e clicar em "Criar um recurso".
 ![Página Inicial da Azure](images/img-1.jpg)
